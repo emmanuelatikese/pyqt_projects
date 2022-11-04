@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>equalsign_81021.png</file>
+    <file>primitivedot_106373.png</file>
+    <file>divisionsign_81003.png</file>
+    <file>add.png</file>
+    <file>minus.png</file>
+    <file>cancel.png</file>
+  </qresource>
+</RCC>
